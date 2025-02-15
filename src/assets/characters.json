@@ -1,0 +1,504 @@
+[
+  {
+    "character": "ayu",
+    "fillColor": "#3BEADF",
+    "strokeColor": "#30bbb2",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 42
+    }
+  },
+  {
+    "character": "eto",
+    "fillColor": "#79cfe8",
+    "strokeColor": "#0b8eb7",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 42
+    }
+  },
+  {
+    "character": "hikari",
+    "fillColor": "#ffe7b5",
+    "strokeColor": "#ef7d04",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 42
+    }
+  },
+  {
+    "character": "ilith",
+    "fillColor": "#f58194",
+    "strokeColor": "#c61632",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 42
+    }
+  },
+  {
+    "character": "kou",
+    "fillColor": "#ffd5d5",
+    "strokeColor": "#f04f87",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 42
+    }
+  },
+  {
+    "character": "lagrange",
+    "fillColor": "#bbd7fa",
+    "strokeColor": "#4c8cdd",
+    "defaultText": {
+      "text": "BRB",
+      "x": 98,
+      "y": 66,
+      "r": -4,
+      "s": 43
+    }
+  },
+  {
+    "character": "luna",
+    "fillColor": "#c09edd",
+    "strokeColor": "#7743a3",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 42
+    }
+  },
+  {
+    "character": "maya",
+    "fillColor": "#f1dece",
+    "strokeColor": "#f4cfb7",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 42
+    }
+  },
+  {
+    "character": "nami",
+    "fillColor": "#f9c2cb",
+    "strokeColor": "#f62f51",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 42
+    }
+  },
+  {
+    "character": "shirahime",
+    "fillColor": "#c3d5ff",
+    "strokeColor": "#657ae7",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 42
+    }
+  },
+  {
+    "character": "tairitsu",
+    "fillColor": "#80e8d5",
+    "strokeColor": "#329f8c",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 42
+    }
+  },
+  {
+    "character": "vita",
+    "fillColor": "#f58194",
+    "strokeColor": "#c81c38",
+    "defaultText": {
+      "text": "OK!",
+      "x": 148,
+      "y": 65,
+      "r": -1.5,
+      "s": 42
+    }
+  },
+  {
+    "character": "kanae",
+    "fillColor": "#fbd0ad",
+    "strokeColor": "#FFB87F",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 42
+    }
+  },
+  {
+    "character": "saya",
+    "fillColor": "#80e8d5",
+    "strokeColor": "#329f8c",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 42
+    }
+  },
+  {
+    "character": "shirabe",
+    "fillColor": "#E5616D",
+    "strokeColor": "#974149",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 42
+    }
+  },
+  {
+    "character": "lethe",
+    "fillColor": "#F6D3C2",
+    "strokeColor": "#E3BAA7",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 42
+    }
+  },
+  {
+    "character": "insight",
+    "fillColor": "#C9CBEA",
+    "strokeColor": "#a8a9c3",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 42
+    }
+  },
+  {
+    "character": "aichan",
+    "fillColor": "#CDB4E8",
+    "strokeColor": "#a28fb6",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 42
+    }
+  },
+  {
+    "character": "airi",
+    "fillColor": "#FB8AAC",
+    "defaultText": {
+      "text": "keep up",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "character": "akito",
+    "fillColor": "#FF7722",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "character": "an",
+    "fillColor": "#00BADC",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "character": "emu",
+    "fillColor": "#FF66BB",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "character": "ena",
+    "fillColor": "#B18F6C",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "character": "Haruka",
+    "fillColor": "#6495F0",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "character": "Honami",
+    "fillColor": "#F86666",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "character": "Ichika",
+    "fillColor": "#33AAEE",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "character": "KAITO",
+    "fillColor": "#3366CC",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "character": "Kanade",
+    "fillColor": "#BB6688",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "character": "Kohane",
+    "fillColor": "#FF6699",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "character": "Len",
+    "fillColor": "#D3BD00",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "character": "Luka",
+    "fillColor": "#F88CA7",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "character": "Mafuyu",
+    "fillColor": "#7171AF",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "character": "Meiko",
+    "fillColor": "#E4485F",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "character": "Miku",
+    "fillColor": "#33CCBB",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "character": "Minori",
+    "fillColor": "#F39E7D",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "character": "Mizuki",
+    "fillColor": "#CA8DB6",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "character": "Nene",
+    "fillColor": "#19CD94",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "character": "Rin",
+    "fillColor": "#E8A505",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "character": "Rui",
+    "fillColor": "#BB88EE",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "character": "Saki",
+    "fillColor": "#F5B303",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "character": "Shiho",
+    "fillColor": "#A0C10B",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "character": "Shizuku",
+    "fillColor": "#5CD0B9",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "character": "Touya",
+    "fillColor": "#0077DD",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "character": "Tsukasa",
+    "fillColor": "#F09A04",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  }
+]
