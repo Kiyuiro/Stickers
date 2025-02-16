@@ -69,11 +69,11 @@
         <el-color-picker v-model="fontColor" @active-change="refreshFontColor"/>
       </div>
       <div>
-        <span>外边框</span>
+        <span>内边框</span>
         <el-color-picker v-model="innerBorderColor" @active-change="refreshInterBorderColor"/>
       </div>
       <div>
-        <span>内边框</span>
+        <span>外边框</span>
         <el-color-picker v-model="outerBorderColor" @active-change="refreshOuterBorderColor"/>
       </div>
     </div>
