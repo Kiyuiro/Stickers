@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite --host",
     "build": "vue-tsc -b && vite build",
+    "build-gtihub": "vue-tsc -b && vite build --base /Stickers/",
     "preview": "vite preview"
   },
   "dependencies": {

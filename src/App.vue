@@ -111,7 +111,7 @@ const innerBorderColor = ref('#7844a3'); // 内边框颜色
 onMounted(async () => {
   ctx = canvas.value.getContext('2d');
   img = new Image();
-  img.src = '/img/Arcaea/luna.png';
+  img.src = import.meta.env.BASE_URL + "img/Arcaea/luna.png"
   img.onload = async () => {
     await waitFontLoad("YurukaStd");
     await waitFontLoad("SSFangTangTi");
@@ -275,7 +275,7 @@ const hasFont = (fontName: string) => {
 const images = import.meta.glob('/public/img/**/*.{jpg,png,gif}', {eager: true});
 const imgDir = new Map();
 Object.keys(images).forEach(filePath => {
-  const relativePath = filePath.replace('/public', '');
+  const relativePath = filePath.replace('/public/', import.meta.env.BASE_URL);
   const parentName = relativePath.split('/').slice(-2, -1)[0];
   if (!imgDir.has(parentName)) {
     imgDir.set(parentName, []);
